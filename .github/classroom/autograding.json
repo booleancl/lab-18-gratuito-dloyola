@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Autograde",
+      "setup": "npm install",
+      "run": "npm run test:ci",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 10
+    }
+  ]
+}
